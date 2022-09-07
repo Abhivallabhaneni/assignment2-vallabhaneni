@@ -35,6 +35,7 @@ Amaravati Archaeological Museum is located in Amaravati, Andhra Pradesh.It is on
 ### Quotes
 
 > Life's a game made for everyone, and love is the prize *Avicii*.
+
 > You always gain by giving love *Reese Witherspoon*.
 
 ***
@@ -63,4 +64,3 @@ Amaravati Archaeological Museum is located in Amaravati, Andhra Pradesh.It is on
 
   **[Click here to go to the source](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)**
 
-  
