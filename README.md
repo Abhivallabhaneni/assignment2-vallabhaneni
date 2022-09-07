@@ -73,8 +73,3 @@ Amaravati Archaeological Museum is located in Amaravati, Andhra Pradesh.It is on
   '''
 
   **[Click here to go to the source](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)**
-
-<<<<<<< HEAD
-=======
-  
->>>>>>> 9bc0f15698f0da3e27ad9e9eb30f05e50fc98227
