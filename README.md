@@ -17,4 +17,50 @@ Amaravati Archaeological Museum is located in Amaravati, Andhra Pradesh.It is on
 * Amaralingeswara Swamy Temple
 * Krishna River
 
+***
+
 ![AboutMe.md](AboutMe.me)
+
+### About cities
+
+|city|location| Time to spend |
+|----|--------|--------|
+|Hyderabad| Charminar| 3hrs|
+|Mysore|Palace| 2hrs|
+|Vizag| Beach|3 hrs|
+|Tirupati| Temple | 4hrs|
+
+***
+
+### Quotes
+
+> Life's a game made for everyone, and love is the prize *Avicii*.
+> You always gain by giving love *Reese Witherspoon*.
+
+***
+
+### Code Fencing
+
+> This page lists a ton of different devices and media queries that would specifically target that device. That’s probably not generally a great practice, but it is helpful to know what the dimensions for all these devices are in a CSS context.
+
+>  **[Click here to go to the source](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)**
+ '''
+
+ @media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 1) { 
+}
+
+/* ----------- Retina Screens ----------- */
+@media screen 
+  and (min-device-width: 1200px) 
+  and (max-device-width: 1600px) 
+  and (-webkit-min-device-pixel-ratio: 2)
+  and (min-resolution: 192dpi) { 
+}
+  '''
+
+  **[Click here to go to the source](https://css-tricks.com/snippets/css/media-queries-for-standard-devices/)**
+
+  
